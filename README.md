@@ -1,16 +1,15 @@
-### Hi there 👋
+###   Olá pessoal!! �😁
+<p>Me chamo <strong>José Vitor Krenzke</strong></p>
 
-<!--
-**JoseKrenzke/josekrenzke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 HOBBIES: Jogar Valorant/CS, assistir séries/ youtube.
+- 🌱 Formação: Participante da 7° Edição do Progama Starter Full Stack Web Developer na Growdev.
+- 👯 Experiências profissionais: Trabalhei 1 e 6 ano com atendimento ao público fisico, e atualmente trabalho no setor de Helpdesk da empresa CleanNet.
+- 🤔 Linguagem de progamação favorita: HTML, CSS, JAVASCRIPT
+- 💬 Estudando atualmente: Desenvolvimento de Aplicações Web
+- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/jose-krenzke-3281b81b0/"> LinkedIn </a>, <a href="mailto:krenzkejose@gmail.com" target="_blank"> E-mail </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/JoseKrenzke">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=montoyaaa&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=montoyaaa&layout=compact&langs_count=7&theme=city_lights"/>
+</div>
